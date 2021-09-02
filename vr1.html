@@ -15,6 +15,9 @@
         <a-assets>
             <a-asset-item id="animated-asset" src="https://raw.githubusercontent.com/nicolocarpignoli/nicolocarpignoli.github.io/master/ar-playground/models/CesiumMan.gltf"></a-asset-item>
         </a-assets>
+        <a-assets>
+            <a-asset-item id="dexter-asset" src="gtlf/Bender gltf compressed.draco.draco.gltf"></a-asset-item>
+        </a-assets>
 
         <a-marker type='barcode' value='7'>
             <a-box position='0 0.5 0' color="yellow"></a-box>
@@ -29,8 +32,8 @@
             
         <a-marker type="pattern" preset="custom" url="pattern-HD_Smile_logo_L.patt" >
             <a-entity
-                gltf-model="#animated-asset"
-                scale="3">
+                gltf-model="#dexter-asset"
+                scale="1">
             </a-entity>
         </a-marker>
 
