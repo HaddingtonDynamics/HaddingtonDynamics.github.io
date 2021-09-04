@@ -161,7 +161,7 @@
 			]
 			,"extensions" : {
 				"KHR_lights_punctual" : {
-					"light" : 0
+					"lights" : 0
 				}
 			}
 			,"name": "Directional1"		}
@@ -175,7 +175,7 @@
 			]
 			,"extensions" : {
 				"KHR_lights_punctual" : {
-					"light" : 1
+					"lights" : 1
 				}
 			}
 			,"name": "Directional2"		}
@@ -189,7 +189,7 @@
 			]
 			,"extensions" : {
 				"KHR_lights_punctual" : {
-					"light" : 2
+					"lights" : 2
 				}
 			}
 			,"name": "Directional3"		}
