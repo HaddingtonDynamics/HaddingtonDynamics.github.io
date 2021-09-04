@@ -275,7 +275,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 2000,
+			"intensity": 100,
 			"type": "point"
 		}
 ,
@@ -284,7 +284,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 2000,
+			"intensity": 100,
 			"type": "point"
 		}
 
