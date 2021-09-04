@@ -273,18 +273,18 @@
 		{
 			"name": "Directional1[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 50,
 			"type": "point"
 		}
 ,
 		{
 			"name": "Directional2[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 50,
 			"type": "point"
 		}
 
