@@ -271,7 +271,7 @@
 		"KHR_lights_punctual" : {
 			"lights": [
 		{
-			"name": "Directional1[1]",
+			"name": "Directional1",
 			"color": [
 					1, 1, 1
 				],
@@ -280,7 +280,7 @@
 		}
 ,
 		{
-			"name": "Directional2[1]",
+			"name": "Directional2",
 			"color": [
 					1, 1, 1
 				],
