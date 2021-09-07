@@ -301,36 +301,36 @@
 		{
 			"name": "Directional1[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 3,
 			"type": "point"
 		}
 ,
 		{
 			"name": "Directional2[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 3,
 			"type": "point"
 		}
 ,
 		{
 			"name": "Directional2 2[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 2,
 			"type": "point"
 		}
 ,
 		{
 			"name": "Directional2 3[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
-			"intensity": 0.5773503,
+			"intensity": 2,
 			"type": "point"
 		}
 
@@ -1428,7 +1428,7 @@
 						0.02899119, 0.02899119, 0.02899119, 1
 					]
 					,"metallicFactor": 0
-					,"roughnessFactor": 0.3788893
+					,"roughnessFactor": 0.5
 				}
 				,"alphaMode": "OPAQUE"
 				,"doubleSided": true
