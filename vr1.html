@@ -54,23 +54,12 @@
             id = "scene"
             >
 
-        <a-assets>
-            <a-asset-item id="animated-asset" src="https://raw.githubusercontent.com/nicolocarpignoli/nicolocarpignoli.github.io/master/ar-playground/models/CesiumMan.gltf"></a-asset-item>
-        </a-assets>
+     
         <a-assets>
             <a-asset-item id="dexter-asset" src="Bender QR 10/Bender QR 10.gltf"></a-asset-item>
         </a-assets>
 
-        <a-marker type='barcode' value='7'>
-            <a-box position='0 0.5 0' color="yellow"></a-box>
-        </a-marker>
-
-        <a-marker id="animated-marker" type='barcode' value='6'>
-            <a-entity
-                gltf-model="#animated-asset"
-                scale="6">
-            </a-entity>
-        </a-marker>
+      
         
         <!-- https://ar-js-org.github.io/AR.js-Docs/marker-based/ -->
         <a-marker type="pattern" preset="custom" url="QR-AR_HD.patt" smooth="true" smoothCount=5 >
